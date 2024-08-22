@@ -1,4 +1,5 @@
-
+// Dev: Mike016
+// Author: Chaloemsak Arsung
 
 // Assignment 3 Write a program to simulate a login system.
 // Dev: Mike016
