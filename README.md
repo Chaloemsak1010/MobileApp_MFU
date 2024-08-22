@@ -1,7 +1,7 @@
 # MobileApp_MFU
-// Dev: Mike016 || CE MFU65
+Dev: Mike016 || CE MFU65
 
-// Author: Chaloemsak Arsung
+Author: Chaloemsak Arsung
 
 1305216 Mobile Application Development (Revision : 1)
 
