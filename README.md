@@ -1,5 +1,5 @@
 # MobileApp_MFU
-Dev: Mike016 || CE MFU65
+Dev: Mike016 || CE65 MFU
 
 Author: Chaloemsak Arsung
 
