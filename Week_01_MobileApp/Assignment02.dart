@@ -1,5 +1,7 @@
 // Dev: Mike016
 // Author: Chaloemsak Arsung
+
+// Assignment 2 Write a program to get a user’s name and age. Check also the user input correctly.
 import 'dart:io';
 void main() {
   print('Enter your name.... ');
